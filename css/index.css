@@ -1,0 +1,113 @@
+body{
+    background-color: #1B1B1B;
+}
+
+table {
+    width: 500px;
+    height: 500px;
+    border-collapse: collapse;
+    border: 1px solid rgb(44, 53, 44);
+    margin-left: auto;
+    margin-right: auto;
+}    
+
+td {
+    width: 62.5px;
+    height: 62.5px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.black {
+    background-color: #779556;
+}
+  
+.white {
+    background-color: #EBECCF;
+}
+
+.w.Pawn{
+    background-image: url(images/wp.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.w.Rook{
+    background-image: url(images/wr.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.w.Bishop, .wwBishop{
+    background-image: url(images/wb.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.w.Knight{
+    background-image: url(images/wn.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.w.Queen{
+    background-image: url(images/wq.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.w.King{
+    background-image: url(images/wk.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.b.Pawn{
+    background-image: url(images/bp.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.b.Rook{
+    background-image: url(images/br.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.b.Bishop, .bwBishop {
+    background-image: url(images/bb.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.b.Knight{
+    background-image: url(images/bn.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.b.Queen{
+    background-image: url(images/bq.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
+.b.King{
+    background-image: url(images/bk.png);
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    margin: auto;
+}
